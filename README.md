@@ -1,7 +1,11 @@
 # ESP32-BLE-Steering
 自制ESP32蓝牙方向盘
 
+[Rust版本](https://github.com/loopade/ESP32-BLE-Steering-rs)
+
 DIY ESP32 Bluetooth Steering
+
+[Rust Version](https://github.com/loopade/ESP32-BLE-Steering-rs)
 
 <hr/>
 
